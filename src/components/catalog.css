@@ -1,0 +1,11 @@
+.catalog h2{
+    color: chocolate;
+};
+
+.prducts-container{
+    grid-template-columns: repeat(1,1fr);
+}
+
+
+
+
